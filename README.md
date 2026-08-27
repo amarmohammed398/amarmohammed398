@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:3a3a3a&height=240&section=header&text=AMAR%20MUKHTAR%20MOHAMMED&fontSize=40&fontColor=d3d3d3&animation=fadeIn&fontAlignY=40&desc=AI%20ENGINEER%20%2F%2F%20M.Sc.%20ARTIFICIAL%20INTELLIGENCE&descAlignY=60&descSize=16&descColor=cccccc" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:3a3a3a&height=240&section=header&text=AMAR%20MOHAMMED&fontSize=40&fontColor=d3d3d3&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%2F%2F%20M.Sc.%20ARTIFICIAL%20INTELLIGENCE&descAlignY=60&descSize=16&descColor=cccccc" alt="header" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=808080&center=true&vCenter=true&width=720&height=50&lines=%3E_+Building+AI+systems+that+ship;%3E_+Quantum-classical+ML;%3E_+From+Splunk+dashboards+to+neural+nets;%3E_+Always+building." alt="typing" />
