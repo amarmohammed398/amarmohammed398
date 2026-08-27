@@ -148,8 +148,8 @@ A decentralised to-do app running on the Ethereum network — my gateway into bl
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=amarmohammed398&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=ffffff&text_color=ffffff" alt="stats" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarmohammed398&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=ffffff" alt="langs" />
+<img height="170em" src="https://github-stats-extended.vercel.app/api?username=amarmohammed398&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=ffffff&text_color=ffffff" alt="stats" />
+<img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=amarmohammed398&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=ffffff" alt="langs" />
 
 <br/><br/>
 
