@@ -43,6 +43,14 @@ jobs:
           plugin_isocalendar_duration: full-year
           config_display: large
           config_timezone: Europe/London
+          extras_css: |
+            :root {
+              --color-calendar-graph-day-bg: #e5e5e5;
+              --color-calendar-graph-day-L1-bg: #c4c4c4;
+              --color-calendar-graph-day-L2-bg: #999999;
+              --color-calendar-graph-day-L3-bg: #666666;
+              --color-calendar-graph-day-L4-bg: #333333;
+            }
 
       - name: Commit updated cards
         run: |
