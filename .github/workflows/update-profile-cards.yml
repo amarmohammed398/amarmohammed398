@@ -43,14 +43,17 @@ jobs:
           plugin_isocalendar_duration: full-year
           config_display: large
           config_timezone: Europe/London
-          extras_css: |
-            :root {
-              --color-calendar-graph-day-bg: #e5e5e5;
-              --color-calendar-graph-day-L1-bg: #c4c4c4;
-              --color-calendar-graph-day-L2-bg: #999999;
-              --color-calendar-graph-day-L3-bg: #666666;
-              --color-calendar-graph-day-L4-bg: #333333;
-            }
+          output_action: none
+
+      - name: Recolor activity calendar to grayscale
+        run: |
+          sed -i \
+            -e 's/#ebedf0/#e5e5e5/g' \
+            -e 's/#9be9a8/#c4c4c4/g' \
+            -e 's/#40c463/#999999/g' \
+            -e 's/#30a14e/#666666/g' \
+            -e 's/#216e39/#333333/g' \
+            profile/activity.svg
 
       - name: Commit updated cards
         run: |
